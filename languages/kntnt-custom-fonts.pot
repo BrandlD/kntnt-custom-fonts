@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kntnt Custom Fonts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 20:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: classes/abstract-settings.php:331
+#, php-format
+msgid "<strong>ERROR:</strong> Invalid data in the field <em>%s</em>."
+msgstr ""
+
+#: classes/abstract-settings.php:334
+msgid "<strong>ERROR:</strong> Please review the settings and try again."
+msgstr ""
+
+#: classes/settings.php:15 classes/settings.php:22
+msgid "Custom Fonts"
+msgstr ""
+
+#: classes/settings.php:32
+msgid "Font directory"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kntnt/kntnt-custom-fonts"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kntnt.com/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kntnt Custom Fonts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Loads custom fonts."
+msgstr ""
+
+#: classes/abstract-settings.php:221
+msgid "Nonce failed."
+msgstr ""
+
+#: classes/abstract-settings.php:32
+msgid "Settings"
+msgstr ""
+
+#: classes/abstract-settings.php:340
+msgid "Successfully saved settings."
+msgstr ""
+
+#: classes/settings.php:34
+#, php-format
+msgid ""
+"The path relative the WordPress installation directory (%s) where the fonts "
+"are stored. See this plugin's README-file for information on the required "
+"directory structure."
+msgstr ""
+
+#: classes/abstract-settings.php:183
+#, php-format
+msgid "This plugin must be installed and active: %s"
+msgid_plural "These plugins must be installed and active: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Author of the plugin
+msgid "Thomas Barregren"
+msgstr ""
+
+#: classes/abstract-settings.php:45
+msgid "Unauthorized use."
+msgstr ""
