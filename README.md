@@ -51,7 +51,7 @@ Example:
 You can name `fonts` whatever you want and place it wherever you want relative
 WordPress root directory as long as you update the settings accordingly.
 
-The plugin generates the CSS file in wp-content/uploads/kntnt-custom-fonts.css.
+The plugin generates the CSS file wp-content/uploads/kntnt-custom-fonts.css.
 This is created when the plugin is enabled, recreated when the settings are
 saved, and deleted when the plugin is disabled.
 
